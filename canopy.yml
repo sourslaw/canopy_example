@@ -2,19 +2,19 @@ title: Example Canopy Site title
 collection:
   - https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll678/manifest.json
 manifest:
-  - http://cdm16022.contentdm.oclc.org/iiif/p16022coll678:106/manifest.json
-  - http://cdm16022.contentdm.oclc.org/iiif/p16022coll678:109/manifest.json
-  - http://cdm16022.contentdm.oclc.org/iiif/p16022coll678:154/manifest.json
-  - http://cdm16022.contentdm.oclc.org/iiif/p16022coll678:236/manifest.json
-  - http://cdm16022.contentdm.oclc.org/iiif/p16022coll678:361/manifest.json
+  - https://cdm16022.contentdm.oclc.org/iiif/p16022coll678:106/manifest.json
+  - https://cdm16022.contentdm.oclc.org/iiif/p16022coll678:109/manifest.json
+  - https://cdm16022.contentdm.oclc.org/iiif/p16022coll678:154/manifest.json
+  - https://cdm16022.contentdm.oclc.org/iiif/p16022coll678:236/manifest.json
+  - https://cdm16022.contentdm.oclc.org/iiif/p16022coll678:361/manifest.json
 metadata:
   - Subject
   - Date
   - Language
   - Genre
 featured:
-  - http://cdm16022.contentdm.oclc.org/iiif/p16022coll678:361/manifest.json
-  - http://cdm16022.contentdm.oclc.org/iiif/p16022coll678:236/manifest.json
+  - https://cdm16022.contentdm.oclc.org/iiif/p16022coll678:361/manifest.json
+  - https://cdm16022.contentdm.oclc.org/iiif/p16022coll678:236/manifest.json
 search:
   page:
     title: Search
