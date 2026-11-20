@@ -1,12 +1,14 @@
 title: Example Canopy Site title
 collection:
-  - https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll678/manifest.json
+  - https://api.dc.library.northwestern.edu/api/v2/works/7397c58b-e281-4ecb-b50b-a0988eb26238?as=iiif
+  - https://quod.lib.umich.edu/cgi/i/image/api/manifest/clark1ic:000074519
 manifest:
-  - https://cdm16022.contentdm.oclc.org/iiif/p16022coll678:106/manifest.json
-  - https://cdm16022.contentdm.oclc.org/iiif/p16022coll678:109/manifest.json
-  - https://cdm16022.contentdm.oclc.org/iiif/p16022coll678:154/manifest.json
-  - https://cdm16022.contentdm.oclc.org/iiif/p16022coll678:236/manifest.json
-  - https://cdm16022.contentdm.oclc.org/iiif/p16022coll678:361/manifest.json
+  - https://api.dc.library.northwestern.edu/api/v2/works/7397c58b-e281-4ecb-b50b-a0988eb26238?as=iiif
+  - https://api.dc.library.northwestern.edu/api/v2/works/662e85e1-db6e-4c70-99a8-bc7d42a75063?as=iiif
+  - https://api.dc.library.northwestern.edu/api/v2/works/a1050160-c65e-44e3-acd2-f55bedec3ef7?as=iiif
+  - https://quod.lib.umich.edu/cgi/i/image/api/manifest/clark1ic:000074519
+  - https://quod.lib.umich.edu/cgi/i/image/api/manifest/clark1ic:000074709
+  - https://quod.lib.umich.edu/cgi/i/image/api/manifest/clark1ic:000075181
 metadata:
   - Subject
   - Date
